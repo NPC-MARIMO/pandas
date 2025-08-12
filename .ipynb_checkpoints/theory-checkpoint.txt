@@ -1,0 +1,9 @@
+use case of pandas 
+1. data cleaning
+2. data analysis
+3. data transformation
+4. data visualisation ( basic level )
+5. data aggregation
+6. file handling
+7. data filtering and selection
+8. time series analysis

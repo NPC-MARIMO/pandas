@@ -1,0 +1,21 @@
+use case of pandas 
+1. data cleaning
+2. data analysis
+3. data transformation
+4. data visualisation ( basic level )
+5. data aggregation
+6. file handling
+7. data filtering and selection
+8. time series analysis
+
+
+index
+1 series
+2 data frames
+3 missing data
+4 merging, joining concatenation
+5 groupby and aggregations
+6 pivot tables and crosstab
+7 operations
+8 working with real data
+9 some great capstone projects
